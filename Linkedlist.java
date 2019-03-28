@@ -8,6 +8,7 @@ public class Linkedlist {
 		//used for add and delete, search not good
 		LinkedList<Integer> details = new LinkedList<Integer>();
 		Hashmap<String,String> emp = new Hashmap<String,String>();
+		Treeset;
 		details.add(7);
 		details.add(8);
 		details.add(9);
